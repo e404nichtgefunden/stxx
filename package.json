@@ -1,0 +1,11 @@
+{
+  "name": "stxbot",
+  "version": "1.0.0",
+  "description": "Telegram terminal bot",
+  "main": "main.py",
+  "scripts": {
+    "start": "python3 main.py"
+  },
+  "author": "@kecee_pyrite",
+  "license": "MIT"
+}
